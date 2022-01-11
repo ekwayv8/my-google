@@ -2,6 +2,6 @@
 
 **Imagine the future of google : This is it 😉 **
 
-`HTML & CSS `are the only rewuirement for this
+`HTML & CSS ` are the only requirement for this ! 
 
 enjoy 💪🏾
