@@ -131,10 +131,21 @@ a:visited {
     display: flex;
     flex-flow: wrap row ;
     justify-content: flex-start;
-
   }
-  
- #bottom2{
+
+#bottom2{
+    margin-top: 0;
+    display: flex;
+    color: grey;
+    flex-flow: wrap row ;
+    justify-content: center;
+  }
+#logo_ecolo{
+margin: 0px 6px 0px 0px;
+resize: : 10px;
+  }
+
+ #bottom3{
     
     display: flex;
     justify-content: space-between;
